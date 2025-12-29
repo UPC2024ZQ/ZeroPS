@@ -1,0 +1,63 @@
+{
+  "Ballpoint": [
+    "cap",
+    "button"
+  ],
+  "Bottle": [
+    "lid"
+  ],
+  "Box": [
+    "lid"
+  ],
+  "Bucket": [
+    "handle"
+  ],
+  "Condiment": [
+    "lid",
+    "handle"
+  ],
+  "Cup": [
+    "lid",
+    "handle"
+  ],
+  "Drink": [
+    "lid"
+  ],
+  "Eyeglasses": [
+    "body",
+    "leg"
+  ],
+  "Faucet": [
+    "spout",
+    "switch"
+  ],
+  "Foldingrack": [
+    "hook",
+    "body",
+    "leg"
+  ],
+  "Knife": [
+    "blade",
+    "handle"
+  ],
+  "Lighter": [
+    "lid",
+    "wheel",
+    "button"
+  ],
+  "Sauce": [
+    "lid"
+  ],
+  "Scissor": [
+    "blade",
+    "handle"
+  ],
+  "Shampoo": [
+    "head",
+    "lid"
+  ],
+  "Trashcan": [
+    "lid",
+    "wheel"
+  ]
+}
